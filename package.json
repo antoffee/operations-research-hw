@@ -1,0 +1,16 @@
+{
+  "name": "homework_do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "node ./src/hw1task2/script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^10.4.1"
+  },
+  "type": "module"
+}
